@@ -1,4 +1,4 @@
 name:Leo
 occupation:SDET 
 objective: to be admired
-Prefereed rate:50$
+Prefereed rate:50$ per hour
