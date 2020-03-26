@@ -1,2 +1,4 @@
 name:Leo
 occupation:SDET 
+objective: to be admired
+Prefereed rate:50$
